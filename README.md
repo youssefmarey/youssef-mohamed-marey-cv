@@ -16,7 +16,7 @@ You can view my CV online at: [https://youssefmarey.github.io/youssef-mohamed-ma
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yousefdiab611/my-cv.git
+    git clone https://youssefmarey.github.io/youssef-mohamed-marey-cv/.git
     ```
 
 2. Navigate to the project folder:
