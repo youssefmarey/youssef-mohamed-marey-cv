@@ -4,7 +4,7 @@ This project hosts my personal CV on GitHub Pages as an HTML webpage.
 
 ## Website
 
-You can view my CV online at: [https://yousefdiab611.github.io/my-cv](https://yousefdiab611.github.io/my-cv)
+You can view my CV online at: [https://youssefmarey.github.io/youssef-mohamed-marey-cv/](https://youssefmarey.github.io/youssef-mohamed-marey-cv/)
 
 ## Technologies Used
 
